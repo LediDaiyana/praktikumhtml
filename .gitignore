@@ -1,6 +1,7 @@
 # Editor directories and files
 .vscode/
 .idea/
+*.swp
 *.suo
 *.ntvs*
 *.njsproj
@@ -12,3 +13,4 @@ desktop.ini
 
 # Log files
 *.log
+.cache/
